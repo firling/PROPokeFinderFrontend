@@ -1,3 +1,5 @@
+Original PROJECT = https://gitlab.com/pro-pokemon-finder/frontend (with every commit and merge)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
