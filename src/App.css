@@ -1,0 +1,29 @@
+html {
+  background-color: #5b6d8c !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.color-title {
+  color: #e8d8e1 !important;
+}
+
+.content {
+  margin-top: 10%;
+}
+
+.marging-left-right {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.columnFullWidth {
+    width: 100%;
+}
+
+
+.imgSize {
+  width: 70%;
+}
